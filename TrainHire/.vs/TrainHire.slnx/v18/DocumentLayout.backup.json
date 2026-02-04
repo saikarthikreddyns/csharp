@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saika\\source\\repos\\TrainHire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|c:\\users\\saika\\source\\repos\\trainhire\\trainhire\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|solutionrelative:trainhire\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|c:\\users\\saika\\source\\repos\\trainhire\\trainhire\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|solutionrelative:trainhire\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|c:\\users\\saika\\source\\repos\\trainhire\\trainhire\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|solutionrelative:trainhire\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|c:\\users\\saika\\source\\repos\\trainhire\\trainhire\\models\\candidateeducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|solutionrelative:trainhire\\models\\candidateeducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|c:\\users\\saika\\source\\repos\\trainhire\\trainhire\\models\\candidateexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|solutionrelative:trainhire\\models\\candidateexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|c:\\users\\saika\\source\\repos\\trainhire\\trainhire\\models\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|solutionrelative:trainhire\\models\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|c:\\users\\saika\\source\\repos\\trainhire\\trainhire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|solutionrelative:trainhire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|c:\\users\\saika\\source\\repos\\trainhire\\trainhire\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|solutionrelative:trainhire\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|c:\\users\\saika\\source\\repos\\trainhire\\trainhire\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|solutionrelative:trainhire\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|c:\\users\\saika\\source\\repos\\trainhire\\trainhire\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|solutionrelative:trainhire\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|c:\\users\\saika\\source\\repos\\trainhire\\trainhire\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|solutionrelative:trainhire\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|c:\\users\\saika\\source\\repos\\trainhire\\trainhire\\controllers\\candidateeducationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|solutionrelative:trainhire\\controllers\\candidateeducationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|c:\\users\\saika\\source\\repos\\trainhire\\trainhire\\controllers\\candidateexperiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|solutionrelative:trainhire\\controllers\\candidateexperiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|c:\\users\\saika\\source\\repos\\trainhire\\trainhire\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|solutionrelative:trainhire\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|c:\\users\\saika\\source\\repos\\trainhire\\trainhire\\controllers\\employercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCB5DB6-7E02-DAC4-45A3-5FC067CD3AE3}|TrainHire\\TrainHire.csproj|solutionrelative:trainhire\\controllers\\employercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employer.cs",
+              "DocumentMoniker": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Models\\Employer.cs",
+              "RelativeDocumentMoniker": "TrainHire\\Models\\Employer.cs",
+              "ToolTip": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Models\\Employer.cs",
+              "RelativeToolTip": "TrainHire\\Models\\Employer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:20:19.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TrainHire\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Models\\User.cs",
+              "RelativeToolTip": "TrainHire\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:18:15.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Program.cs",
+              "RelativeDocumentMoniker": "TrainHire\\Program.cs",
+              "ToolTip": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Program.cs",
+              "RelativeToolTip": "TrainHire\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:17:23.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "TrainHire\\Models\\Candidate.cs",
+              "ToolTip": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Models\\Candidate.cs",
+              "RelativeToolTip": "TrainHire\\Models\\Candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:04:35.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CandidateEducationController.cs",
+              "DocumentMoniker": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Controllers\\CandidateEducationController.cs",
+              "RelativeDocumentMoniker": "TrainHire\\Controllers\\CandidateEducationController.cs",
+              "ToolTip": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Controllers\\CandidateEducationController.cs",
+              "RelativeToolTip": "TrainHire\\Controllers\\CandidateEducationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:31:04.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TrainHire\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TrainHire\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:02:56.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CandidateExperience.cs",
+              "DocumentMoniker": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Models\\CandidateExperience.cs",
+              "RelativeDocumentMoniker": "TrainHire\\Models\\CandidateExperience.cs",
+              "ToolTip": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Models\\CandidateExperience.cs",
+              "RelativeToolTip": "TrainHire\\Models\\CandidateExperience.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:02:18.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CandidateEducation.cs",
+              "DocumentMoniker": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Models\\CandidateEducation.cs",
+              "RelativeDocumentMoniker": "TrainHire\\Models\\CandidateEducation.cs",
+              "ToolTip": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Models\\CandidateEducation.cs",
+              "RelativeToolTip": "TrainHire\\Models\\CandidateEducation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:02:28.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CandidateExperienceController.cs",
+              "DocumentMoniker": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Controllers\\CandidateExperienceController.cs",
+              "RelativeDocumentMoniker": "TrainHire\\Controllers\\CandidateExperienceController.cs",
+              "ToolTip": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Controllers\\CandidateExperienceController.cs",
+              "RelativeToolTip": "TrainHire\\Controllers\\CandidateExperienceController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:33:37.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TrainHire\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TrainHire\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:36:48.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\appsettings.json",
+              "RelativeDocumentMoniker": "TrainHire\\appsettings.json",
+              "ToolTip": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\appsettings.json",
+              "RelativeToolTip": "TrainHire\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T17:51:54.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "TrainHire\\Controllers\\CandidateController.cs",
+              "ToolTip": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "TrainHire\\Controllers\\CandidateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:02:38.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TrainHire\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TrainHire\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:02:53.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TrainHire\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\appsettings.Development.json",
+              "RelativeToolTip": "TrainHire\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T11:36:39.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployerController.cs",
+              "DocumentMoniker": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Controllers\\EmployerController.cs",
+              "RelativeDocumentMoniker": "TrainHire\\Controllers\\EmployerController.cs",
+              "ToolTip": "C:\\Users\\saika\\source\\repos\\TrainHire\\TrainHire\\Controllers\\EmployerController.cs",
+              "RelativeToolTip": "TrainHire\\Controllers\\EmployerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T11:02:44.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
